@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="cor_botao">
+        <item name="backgroundTint">#FF000000</item>
+    </style>
+
+    <style name="cor_inputs">
+        <item name="backgroundTint">@color/cinza</item>
+    </style>
+
+    <style name="cor_teste">
+        <item name="backgroundTint">#051B47</item>
+    </style>
+</resources>
