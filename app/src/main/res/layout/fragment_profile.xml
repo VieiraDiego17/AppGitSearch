@@ -8,7 +8,7 @@
     tools:context=".view.FragmentProfile">
 
 
-    <ImageView
+    <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/image_user"
         android:layout_width="200dp"
         android:layout_height="200dp"

@@ -9,5 +9,7 @@ data class Repository(
     @SerializedName("language")
     var language: String,
     @SerializedName("html_url")
-    var htmlUrl: String
+    var htmlUrl: String,
+    @SerializedName("avatar_url")
+    var avatarUrl: String
 ) : Serializable

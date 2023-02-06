@@ -12,4 +12,8 @@
     <style name="cor_teste">
         <item name="backgroundTint">#051B47</item>
     </style>
+
+    <style name="image_circle">
+        <item name="android:background">@drawable/image_circle</item>
+    </style>
 </resources>
